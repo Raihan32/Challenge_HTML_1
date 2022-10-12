@@ -1,0 +1,26 @@
+
+      tbody,table,th,td {
+        border: 1px solid black;
+        text-align: center;
+        color: black;
+        width: 500px;
+      }
+
+      th,td {
+        padding: 10px;
+      }
+
+      .tdhitam {
+        background-color: black;
+        color: white;
+      }
+
+      .tdhijau {
+        background-color: green;
+        color: white;
+      }
+
+      .tdmerah {
+        background-color: red;
+        color: white;
+      }
